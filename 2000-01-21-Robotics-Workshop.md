@@ -9,9 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Bob Lineberry
-Theo Long
-Eric Hahn
+author: Bob Lineberry, Theo Long, Eric Hahn
 show_sidebar: false
 ---
 
