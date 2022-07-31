@@ -4,7 +4,7 @@ title: Robotics Workshop
 description: Robotics Workshop in the AMP Lab using ROS Rovers
 date: 2000-01-21 09:00:00
 hero_image: /web/img/Robotics-Workshop/Hero.png
-image: /web/img/Robotics-Workshop/Hero.png
+# image /web/img/Robotics-Workshop/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
